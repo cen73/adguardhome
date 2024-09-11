@@ -1,4 +1,4 @@
 #菜鸟教程
 ||tpc.googlesyndication.com^
 ||static.jyshare.com^
-0.0.0.0 static.jyshare.com
+||steamgame.zjgiwl.cn^
